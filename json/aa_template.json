@@ -1,0 +1,33 @@
+{
+  "Ads": [
+    {
+      "more_app"                  : "0",
+      "select_main_ads"           : "ADMOB-B",
+      "select_backup_ads"         : "ADMOB-B",
+
+      "main_ads_banner"           : "null",
+      "main_ads_intertitial"      : "null",
+      "main_ads_native"           : "null",
+
+      "open_ads"                  : "null",
+
+      "backup_ads_banner"         : "null",
+      "backup_ads_intertitial"    : "null",
+      "backup_ads_native"         : "null",
+      
+      "initialize_sdk"            : "",
+      "initialize_sdk_backup_ads" : "",
+
+      "interval_intertitial"      : 5,
+
+      "high_paying_keyword_1"     : "",
+      "high_paying_keyword_2"     : "",
+      "high_paying_keyword_3"     : "",
+      "high_paying_keyword_4"     : "",
+      "high_paying_keyword_5"     : "",
+
+      "status_app"                : "0",
+      "link_redirect"             : "null"
+      }
+  ]
+}

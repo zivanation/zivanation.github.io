@@ -1,0 +1,200 @@
+{
+  "More":
+  [
+    {
+      "id":1,
+      "title":"More Apps",
+      "image":"https://indotoday.github.io/image/semua.webp",
+      "link":"https://play.google.com/store/apps/developer?id=indotoday"
+    },
+
+
+    {
+      "id":11,
+      "title":"Jennie",
+      "image":"https://indotoday.github.io/image/blackpinkjennietoday.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.indotoday.blackpinkjennietoday"
+    },
+    {
+      "id":12,
+      "title":"Jisoo",
+      "image":"https://indotoday.github.io/image/blackpinkjisootoday.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.indotoday.blackpinkjisootoday"
+    },
+    {
+      "id":13,
+      "title":"Lisa",
+      "image":"https://indotoday.github.io/image/blackpinklisatoday.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.indotoday.blackpinklisatoday"
+    },
+    {
+      "id":14,
+      "title":"Rose",
+      "image":"https://indotoday.github.io/image/blackpinkrosetoday.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.indotoday.blackpinkrosetoday"
+    },
+
+
+    {
+      "id":15,
+      "title":"JHope",
+      "image":"https://indotoday.github.io/image/btsjhopetoday.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.indotoday.btsjhopetoday"
+    },
+    {
+      "id":16,
+      "title":"Jimin",
+      "image":"https://indotoday.github.io/image/btsjimintoday.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.indotoday.btsjimintoday"
+    },
+    {
+      "id":17,
+      "title":"Jin",
+      "image":"https://indotoday.github.io/image/btsjintoday.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.indotoday.btsjintoday"
+    },
+    {
+      "id":18,
+      "title":"Jungkook",
+      "image":"https://indotoday.github.io/image/btsjungkooktoday.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.indotoday.btsjungkooktoday"
+    },
+    {
+      "id":19,
+      "title":"RM",
+      "image":"https://indotoday.github.io/image/btsrmtoday.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.indotoday.btsrmtoday"
+    },
+    {
+      "id":20,
+      "title":"Suga",
+      "image":"https://indotoday.github.io/image/btssugatoday.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.indotoday.btssugatoday"
+    },
+    {
+      "id":21,
+      "title":"Taehyung",
+      "image":"https://indotoday.github.io/image/btstaehyungtoday.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.indotoday.btstaehyungtoday"
+    },
+
+
+    {
+      "id":22,
+      "title":"Cha Eun-woo",
+      "image":"https://indotoday.github.io/image/chaeunwootoday.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.indotoday.chaeunwootoday"
+    },
+
+
+    {
+      "id":23,
+      "title":"Ronaldo",
+      "image":"https://indotoday.github.io/image/cristianoronaldotoday.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.indotoday.cristianoronaldotoday"
+    },
+    {
+      "id":24,
+      "title":"Messi",
+      "image":"https://indotoday.github.io/image/lionelmessitoday.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.indotoday.lionelmessitoday"
+    },
+    {
+      "id":25,
+      "title":"Baim Wong",
+      "image":"https://indotoday.github.io/image/baimwongtoday.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.indotoday.baimwongtoday"
+    },
+    {
+      "id":26,
+      "title":"Raffi Ahmad",
+      "image":"https://indotoday.github.io/image/raffiahmadtoday.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.indotoday.raffiahmadtoday"
+    },
+    {
+      "id":27,
+      "title":"Ria Ricis",
+      "image":"https://indotoday.github.io/image/riaricistoday.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.indotoday.riaricistoday"
+    },
+    {
+      "id":28,
+      "title":"Atta Halilintar",
+      "image":"https://indotoday.github.io/image/attahalilintartoday.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.indotoday.attahalilintartoday"
+    },
+    {
+      "id":29,
+      "title":"Aurel Hermansyah",
+      "image":"https://indotoday.github.io/image/aurelhermansyahtoday.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.indotoday.aurelhermansyahtoday"
+    },
+    {
+      "id":30,
+      "title":"Frost Diamond",
+      "image":"https://indotoday.github.io/image/frostdiamondtoday.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.indotoday.frostdiamondtoday"
+    },
+    {
+      "id":31,
+      "title":"MiawAug",
+      "image":"https://indotoday.github.io/image/miawaugtoday.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.indotoday.miawaugtoday"
+    },
+    {
+      "id":32,
+      "title":"NotNot",
+      "image":"https://indotoday.github.io/image/notnotlidiawatytoday.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.indotoday.notnotlidiawatytoday"
+    },
+    {
+      "id":33,
+      "title":"Harris Vriza",
+      "image":"https://indotoday.github.io/image/harrisvrizatoday.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.indotoday.harrisvrizatoday"
+    },
+    {
+      "id":34,
+      "title":"Una TikTok",
+      "image":"https://indotoday.github.io/image/unaimutbanget.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.indotoday.unaimutbanget"
+    },
+    {
+      "id":35,
+      "title":"Fahmi NM",
+      "image":"https://indotoday.github.io/image/fahminmdtoday.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.indotoday.fahminmdtoday"
+    },
+    {
+      "id":36,
+      "title":"Tiara Andini",
+      "image":"https://indotoday.github.io/image/tiaraandinitoday.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.indotoday.tiaraandinitoday"
+    },
+    {
+      "id":37,
+      "title":"Addison Rae",
+      "image":"https://indotoday.github.io/image/addisonraeapp.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.indotoday.addisonraeapp"
+    },
+    {
+      "id":38,
+      "title":"Bella Poarch",
+      "image":"https://indotoday.github.io/image/bellapoarchtoday.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.indotoday.bellapoarchtoday"
+    },
+    {
+      "id":39,
+      "title":"Billie Eilish",
+      "image":"https://indotoday.github.io/image/billieeilishtoday.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.indotoday.billieeilishtoday"
+    },
+    {
+      "id":40,
+      "title":"Karol Sevilla",
+      "image":"https://indotoday.github.io/image/karolsevillatoday.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.indotoday.karolsevillatoday"
+    }
+  ]
+
+}
